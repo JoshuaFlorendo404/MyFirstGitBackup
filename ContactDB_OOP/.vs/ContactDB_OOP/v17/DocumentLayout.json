@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C# with database\\ContactDB_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|d:\\projects\\c# with database\\contactdb_oop\\frmcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|solutionrelative:frmcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|D:\\Projects\\C# with database\\ContactDB_OOP\\frmcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|solutionrelative:frmcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|D:\\Projects\\C# with database\\ContactDB_OOP\\mycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|solutionrelative:mycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|D:\\Projects\\C# with database\\ContactDB_OOP\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3E0E0-BA64-4025-BE29-57297DAC5FCC}|ContactDB_OOP.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmContact.cs",
+              "DocumentMoniker": "D:\\Projects\\C# with database\\ContactDB_OOP\\frmContact.cs",
+              "RelativeDocumentMoniker": "frmContact.cs",
+              "ToolTip": "D:\\Projects\\C# with database\\ContactDB_OOP\\frmContact.cs",
+              "RelativeToolTip": "frmContact.cs",
+              "ViewState": "AQIAADUCAAAAAAAAAAAkwFQCAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:52:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCon.cs",
+              "DocumentMoniker": "D:\\Projects\\C# with database\\ContactDB_OOP\\MyCon.cs",
+              "RelativeDocumentMoniker": "MyCon.cs",
+              "ToolTip": "D:\\Projects\\C# with database\\ContactDB_OOP\\MyCon.cs",
+              "RelativeToolTip": "MyCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:44:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmContact.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\C# with database\\ContactDB_OOP\\frmContact.cs",
+              "RelativeDocumentMoniker": "frmContact.cs",
+              "ToolTip": "D:\\Projects\\C# with database\\ContactDB_OOP\\frmContact.cs [Design]",
+              "RelativeToolTip": "frmContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:02:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "city.cs",
+              "DocumentMoniker": "D:\\Projects\\C# with database\\ContactDB_OOP\\city.cs",
+              "RelativeDocumentMoniker": "city.cs",
+              "ToolTip": "D:\\Projects\\C# with database\\ContactDB_OOP\\city.cs",
+              "RelativeToolTip": "city.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:45:14.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
